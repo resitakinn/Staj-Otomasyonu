@@ -1,0 +1,150 @@
+body {
+
+
+    -webkit-font-smoothing: antialiased;
+
+    text-rendering: optimizeLegibility;
+
+    letter-spacing: 0;
+
+    font-size: 18px;
+
+    color: #50595e;
+
+    font-weight: 400;
+
+    line-height: 28px;
+    
+
+
+
+}
+
+
+
+ .hata-bolum {
+
+    background-image: url('../kaynak/hatabg.jpg');
+    max-width: 99%; /* Resmi container genişliğine sığdır */
+   height: 100vh;
+
+} 
+ 
+
+
+
+
+
+
+.content {
+
+    padding-top: 0px;
+
+    padding-bottom: 40px;
+
+}
+
+
+
+.hata-alani {-webkit-box-shadow: 0 -1px 42px -1px rgba(0, 0, 0, 0.19);-moz-box-shadow: 0 -1px 42px -1px rgba(0, 0, 0, 0.19);box-shadow: 0 -1px 42px -1px rgba(0, 0, 0, 0.19);background-color: #fff;text-align: center;padding: 150px 100px 0;border-radius: 100%;height: 700px;width: 700px;margin-left: 37%;margin-top: 14%;
+
+
+}
+
+
+
+.hata-gorseli {
+
+    margin-bottom: 40px;
+
+    color: #fff;
+
+}
+
+
+
+.hata-baslik {
+
+    color: #9ca2a5;
+
+}
+
+
+
+.btn-default {
+
+    background-color: #fcb040;
+
+    color: #fff;
+
+    border: 2px solid #fcb040;
+
+    border-radius: 5px;
+
+}
+
+
+
+.btn {
+
+    font-family: 'Barlow Semi Condensed', sans-serif;
+
+    font-size: 16px;
+
+    text-transform: uppercase;
+
+    font-weight: 700;
+
+    text-decoration: none;
+
+    padding: 10px 26px;
+
+    letter-spacing: 0;
+
+    border-radius: 0;
+
+    line-height: 2;
+
+    -webkit-transition: all .3s;
+
+    -moz-transition: all .3s;
+
+    transition: all .3s;
+
+    word-wrap: break-word;
+
+    white-space: normal !important;
+
+}
+
+
+
+.img-fluid {
+
+    max-width: 100%;
+
+    height: auto;
+
+}
+
+
+
+img {
+
+    width: auto;
+
+    max-width: 100%;
+
+    height: auto;
+
+    margin: 0;
+
+    padding: 0;
+
+    border: none;
+
+    line-height: normal;
+
+    vertical-align: middle;
+
+}

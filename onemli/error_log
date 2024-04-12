@@ -1,0 +1,175 @@
+[23-Oct-2023 21:19:17 Europe/Istanbul] PHP Warning:  require_once(PHPMailer/src/PHPmailer.php): Failed to open stream: No such file or directory in /home/u1034550/public_html/mail.php on line 5
+[23-Oct-2023 21:19:17 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Failed opening required 'PHPMailer/src/PHPmailer.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/u1034550/public_html/mail.php:5
+Stack trace:
+#0 /home/u1034550/public_html/index.php(2): include()
+#1 {main}
+  thrown in /home/u1034550/public_html/mail.php on line 5
+[23-Oct-2023 21:20:18 Europe/Istanbul] PHP Warning:  Undefined variable $alert in /home/u1034550/public_html/index.php on line 71
+[23-Oct-2023 21:21:14 Europe/Istanbul] PHP Warning:  require_once(PHPMailer/src/PHPmailer.php): Failed to open stream: No such file or directory in /home/u1034550/public_html/index.php on line 11
+[23-Oct-2023 21:21:14 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Failed opening required 'PHPMailer/src/PHPmailer.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/u1034550/public_html/index.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/u1034550/public_html/index.php on line 11
+[23-Oct-2023 21:21:15 Europe/Istanbul] PHP Warning:  require_once(PHPMailer/src/PHPmailer.php): Failed to open stream: No such file or directory in /home/u1034550/public_html/index.php on line 11
+[23-Oct-2023 21:21:15 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Failed opening required 'PHPMailer/src/PHPmailer.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/u1034550/public_html/index.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/u1034550/public_html/index.php on line 11
+[23-Oct-2023 21:21:16 Europe/Istanbul] PHP Warning:  require_once(PHPMailer/src/PHPmailer.php): Failed to open stream: No such file or directory in /home/u1034550/public_html/index.php on line 11
+[23-Oct-2023 21:21:16 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Failed opening required 'PHPMailer/src/PHPmailer.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/u1034550/public_html/index.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/u1034550/public_html/index.php on line 11
+[23-Oct-2023 21:22:08 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Class "PHPMailer\PHPMailer\PHPMailer" not found in /home/u1034550/public_html/index.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/u1034550/public_html/index.php on line 17
+[23-Oct-2023 21:22:08 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Class "PHPMailer\PHPMailer\PHPMailer" not found in /home/u1034550/public_html/index.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/u1034550/public_html/index.php on line 17
+[23-Oct-2023 21:22:09 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Class "PHPMailer\PHPMailer\PHPMailer" not found in /home/u1034550/public_html/index.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/u1034550/public_html/index.php on line 17
+[23-Oct-2023 21:22:09 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Class "PHPMailer\PHPMailer\PHPMailer" not found in /home/u1034550/public_html/index.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/u1034550/public_html/index.php on line 17
+[23-Oct-2023 21:22:09 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Class "PHPMailer\PHPMailer\PHPMailer" not found in /home/u1034550/public_html/index.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/u1034550/public_html/index.php on line 17
+[23-Oct-2023 21:22:09 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Class "PHPMailer\PHPMailer\PHPMailer" not found in /home/u1034550/public_html/index.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/u1034550/public_html/index.php on line 17
+[23-Oct-2023 21:22:41 Europe/Istanbul] PHP Warning:  require_once(PHPMailer/src/PHPmailer.php): Failed to open stream: No such file or directory in /home/u1034550/public_html/index.php on line 11
+[23-Oct-2023 21:22:41 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Failed opening required 'PHPMailer/src/PHPmailer.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/u1034550/public_html/index.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/u1034550/public_html/index.php on line 11
+[23-Oct-2023 21:22:42 Europe/Istanbul] PHP Warning:  require_once(PHPMailer/src/PHPmailer.php): Failed to open stream: No such file or directory in /home/u1034550/public_html/index.php on line 11
+[23-Oct-2023 21:22:42 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Failed opening required 'PHPMailer/src/PHPmailer.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/u1034550/public_html/index.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/u1034550/public_html/index.php on line 11
+[23-Oct-2023 21:22:42 Europe/Istanbul] PHP Warning:  require_once(PHPMailer/src/PHPmailer.php): Failed to open stream: No such file or directory in /home/u1034550/public_html/index.php on line 11
+[23-Oct-2023 21:22:42 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Failed opening required 'PHPMailer/src/PHPmailer.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/u1034550/public_html/index.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/u1034550/public_html/index.php on line 11
+[23-Oct-2023 21:22:42 Europe/Istanbul] PHP Warning:  require_once(PHPMailer/src/PHPmailer.php): Failed to open stream: No such file or directory in /home/u1034550/public_html/index.php on line 11
+[23-Oct-2023 21:22:42 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Failed opening required 'PHPMailer/src/PHPmailer.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/u1034550/public_html/index.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/u1034550/public_html/index.php on line 11
+[23-Oct-2023 21:24:04 Europe/Istanbul] PHP Warning:  require_once(PHPMailer/src/PHPmailer.php): Failed to open stream: No such file or directory in /home/u1034550/public_html/index.php on line 11
+[23-Oct-2023 21:24:04 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Failed opening required 'PHPMailer/src/PHPmailer.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/u1034550/public_html/index.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/u1034550/public_html/index.php on line 11
+[23-Oct-2023 21:24:31 Europe/Istanbul] PHP Warning:  include(PHPMailer/src/PHPmailer.php): Failed to open stream: No such file or directory in /home/u1034550/public_html/index.php on line 11
+[23-Oct-2023 21:24:31 Europe/Istanbul] PHP Warning:  include(): Failed opening 'PHPMailer/src/PHPmailer.php' for inclusion (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/u1034550/public_html/index.php on line 11
+[23-Oct-2023 21:24:31 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Class "PHPMailer\PHPMailer\PHPMailer" not found in /home/u1034550/public_html/index.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/u1034550/public_html/index.php on line 17
+[23-Oct-2023 21:24:59 Europe/Istanbul] PHP Warning:  include(PHPMailer/src/PHPmailer.php): Failed to open stream: No such file or directory in /home/u1034550/public_html/index.php on line 11
+[23-Oct-2023 21:24:59 Europe/Istanbul] PHP Warning:  include(): Failed opening 'PHPMailer/src/PHPmailer.php' for inclusion (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/u1034550/public_html/index.php on line 11
+[23-Oct-2023 21:24:59 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Class "PHPMailer\PHPMailer\PHPMailer" not found in /home/u1034550/public_html/index.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/u1034550/public_html/index.php on line 17
+[23-Oct-2023 21:25:00 Europe/Istanbul] PHP Warning:  include(PHPMailer/src/PHPmailer.php): Failed to open stream: No such file or directory in /home/u1034550/public_html/index.php on line 11
+[23-Oct-2023 21:25:00 Europe/Istanbul] PHP Warning:  include(): Failed opening 'PHPMailer/src/PHPmailer.php' for inclusion (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/u1034550/public_html/index.php on line 11
+[23-Oct-2023 21:25:00 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Class "PHPMailer\PHPMailer\PHPMailer" not found in /home/u1034550/public_html/index.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/u1034550/public_html/index.php on line 17
+[23-Oct-2023 21:25:00 Europe/Istanbul] PHP Warning:  include(PHPMailer/src/PHPmailer.php): Failed to open stream: No such file or directory in /home/u1034550/public_html/index.php on line 11
+[23-Oct-2023 21:25:00 Europe/Istanbul] PHP Warning:  include(): Failed opening 'PHPMailer/src/PHPmailer.php' for inclusion (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/u1034550/public_html/index.php on line 11
+[23-Oct-2023 21:25:00 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Class "PHPMailer\PHPMailer\PHPMailer" not found in /home/u1034550/public_html/index.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/u1034550/public_html/index.php on line 17
+[23-Oct-2023 21:25:00 Europe/Istanbul] PHP Warning:  include(PHPMailer/src/PHPmailer.php): Failed to open stream: No such file or directory in /home/u1034550/public_html/index.php on line 11
+[23-Oct-2023 21:25:00 Europe/Istanbul] PHP Warning:  include(): Failed opening 'PHPMailer/src/PHPmailer.php' for inclusion (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/u1034550/public_html/index.php on line 11
+[23-Oct-2023 21:25:00 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Class "PHPMailer\PHPMailer\PHPMailer" not found in /home/u1034550/public_html/index.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/u1034550/public_html/index.php on line 17
+[23-Oct-2023 21:25:00 Europe/Istanbul] PHP Warning:  include(PHPMailer/src/PHPmailer.php): Failed to open stream: No such file or directory in /home/u1034550/public_html/index.php on line 11
+[23-Oct-2023 21:25:00 Europe/Istanbul] PHP Warning:  include(): Failed opening 'PHPMailer/src/PHPmailer.php' for inclusion (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/u1034550/public_html/index.php on line 11
+[23-Oct-2023 21:25:00 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Class "PHPMailer\PHPMailer\PHPMailer" not found in /home/u1034550/public_html/index.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/u1034550/public_html/index.php on line 17
+[23-Oct-2023 21:27:07 Europe/Istanbul] PHP Warning:  include(PHPMailer/src/PHPmailer.php): Failed to open stream: No such file or directory in /home/u1034550/public_html/index.php on line 11
+[23-Oct-2023 21:27:07 Europe/Istanbul] PHP Warning:  include(): Failed opening 'PHPMailer/src/PHPmailer.php' for inclusion (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/u1034550/public_html/index.php on line 11
+[23-Oct-2023 21:27:07 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Class "PHPMailer\PHPMailer\PHPMailer" not found in /home/u1034550/public_html/index.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/u1034550/public_html/index.php on line 17
+[23-Oct-2023 21:27:47 Europe/Istanbul] PHP Warning:  include(PHPMailer/src/PHPmailer.php): Failed to open stream: No such file or directory in /home/u1034550/public_html/index.php on line 11
+[23-Oct-2023 21:27:47 Europe/Istanbul] PHP Warning:  include(): Failed opening 'PHPMailer/src/PHPmailer.php' for inclusion (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/u1034550/public_html/index.php on line 11
+[23-Oct-2023 21:27:47 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Class "PHPMailer\PHPMailer\PHPMailer" not found in /home/u1034550/public_html/index.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/u1034550/public_html/index.php on line 17
+[23-Oct-2023 21:27:48 Europe/Istanbul] PHP Warning:  include(PHPMailer/src/PHPmailer.php): Failed to open stream: No such file or directory in /home/u1034550/public_html/index.php on line 11
+[23-Oct-2023 21:27:48 Europe/Istanbul] PHP Warning:  include(): Failed opening 'PHPMailer/src/PHPmailer.php' for inclusion (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/u1034550/public_html/index.php on line 11
+[23-Oct-2023 21:27:48 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Class "PHPMailer\PHPMailer\PHPMailer" not found in /home/u1034550/public_html/index.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/u1034550/public_html/index.php on line 17
+[23-Oct-2023 21:27:48 Europe/Istanbul] PHP Warning:  include(PHPMailer/src/PHPmailer.php): Failed to open stream: No such file or directory in /home/u1034550/public_html/index.php on line 11
+[23-Oct-2023 21:27:48 Europe/Istanbul] PHP Warning:  include(): Failed opening 'PHPMailer/src/PHPmailer.php' for inclusion (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/u1034550/public_html/index.php on line 11
+[23-Oct-2023 21:27:48 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Class "PHPMailer\PHPMailer\PHPMailer" not found in /home/u1034550/public_html/index.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/u1034550/public_html/index.php on line 17
+[23-Oct-2023 21:27:49 Europe/Istanbul] PHP Warning:  include(PHPMailer/src/PHPmailer.php): Failed to open stream: No such file or directory in /home/u1034550/public_html/index.php on line 11
+[23-Oct-2023 21:27:49 Europe/Istanbul] PHP Warning:  include(): Failed opening 'PHPMailer/src/PHPmailer.php' for inclusion (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/u1034550/public_html/index.php on line 11
+[23-Oct-2023 21:27:49 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Class "PHPMailer\PHPMailer\PHPMailer" not found in /home/u1034550/public_html/index.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/u1034550/public_html/index.php on line 17
+[23-Oct-2023 21:27:55 Europe/Istanbul] PHP Warning:  include(PHPMailer/src/PHPmailer.php): Failed to open stream: No such file or directory in /home/u1034550/public_html/index.php on line 11
+[23-Oct-2023 21:27:55 Europe/Istanbul] PHP Warning:  include(): Failed opening 'PHPMailer/src/PHPmailer.php' for inclusion (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/u1034550/public_html/index.php on line 11
+[23-Oct-2023 21:27:55 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Class "PHPMailer\PHPMailer\PHPMailer" not found in /home/u1034550/public_html/index.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/u1034550/public_html/index.php on line 17
+[23-Oct-2023 21:27:56 Europe/Istanbul] PHP Warning:  include(PHPMailer/src/PHPmailer.php): Failed to open stream: No such file or directory in /home/u1034550/public_html/index.php on line 11
+[23-Oct-2023 21:27:56 Europe/Istanbul] PHP Warning:  include(): Failed opening 'PHPMailer/src/PHPmailer.php' for inclusion (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/u1034550/public_html/index.php on line 11
+[23-Oct-2023 21:27:56 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Class "PHPMailer\PHPMailer\PHPMailer" not found in /home/u1034550/public_html/index.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/u1034550/public_html/index.php on line 17
+[23-Oct-2023 21:27:56 Europe/Istanbul] PHP Warning:  include(PHPMailer/src/PHPmailer.php): Failed to open stream: No such file or directory in /home/u1034550/public_html/index.php on line 11
+[23-Oct-2023 21:27:56 Europe/Istanbul] PHP Warning:  include(): Failed opening 'PHPMailer/src/PHPmailer.php' for inclusion (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/u1034550/public_html/index.php on line 11
+[23-Oct-2023 21:27:56 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Class "PHPMailer\PHPMailer\PHPMailer" not found in /home/u1034550/public_html/index.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/u1034550/public_html/index.php on line 17
+[23-Oct-2023 21:27:56 Europe/Istanbul] PHP Warning:  include(PHPMailer/src/PHPmailer.php): Failed to open stream: No such file or directory in /home/u1034550/public_html/index.php on line 11
+[23-Oct-2023 21:27:56 Europe/Istanbul] PHP Warning:  include(): Failed opening 'PHPMailer/src/PHPmailer.php' for inclusion (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/u1034550/public_html/index.php on line 11
+[23-Oct-2023 21:27:56 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Class "PHPMailer\PHPMailer\PHPMailer" not found in /home/u1034550/public_html/index.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/u1034550/public_html/index.php on line 17
+[23-Oct-2023 21:32:21 Europe/Istanbul] PHP Warning:  include(PHPMailer/src/PHPmailer.php): Failed to open stream: No such file or directory in /home/u1034550/public_html/index.php on line 11
+[23-Oct-2023 21:32:21 Europe/Istanbul] PHP Warning:  include(): Failed opening 'PHPMailer/src/PHPmailer.php' for inclusion (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/u1034550/public_html/index.php on line 11
+[23-Oct-2023 21:32:21 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Class "PHPMailer\PHPMailer\PHPMailer" not found in /home/u1034550/public_html/index.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/u1034550/public_html/index.php on line 17
+[23-Oct-2023 21:32:22 Europe/Istanbul] PHP Warning:  include(PHPMailer/src/PHPmailer.php): Failed to open stream: No such file or directory in /home/u1034550/public_html/index.php on line 11
+[23-Oct-2023 21:32:22 Europe/Istanbul] PHP Warning:  include(): Failed opening 'PHPMailer/src/PHPmailer.php' for inclusion (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/u1034550/public_html/index.php on line 11
+[23-Oct-2023 21:32:22 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Class "PHPMailer\PHPMailer\PHPMailer" not found in /home/u1034550/public_html/index.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/u1034550/public_html/index.php on line 17
+[23-Oct-2023 21:32:24 Europe/Istanbul] PHP Warning:  Undefined variable $alert in /home/u1034550/public_html/index.php on line 116
+[23-Oct-2023 21:36:37 Europe/Istanbul] PHP Warning:  Undefined variable $alert in /home/u1034550/public_html/index.php on line 116

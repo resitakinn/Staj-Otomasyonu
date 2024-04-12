@@ -1,0 +1,81 @@
+/* .foto {
+
+
+
+    width: 10em;
+
+    height: 10em;
+
+    border-radius: 50%;
+
+     }
+
+.hata > i {
+
+
+
+    animation: blinker 3.6s linear infinite;
+
+    color: #e01313;
+
+    font-size: 20px;
+
+    font-weight: bold;
+
+    font-family: sans-serif;
+
+    }
+
+    @keyframes blinker {  
+
+    50% { opacity: 0; }
+
+    }
+
+    .stil > h1{
+
+      color:black;
+
+    }
+
+    .stil > p{
+
+      color:black;
+
+    }
+
+    .stil > span{
+
+      color:black;
+
+    }
+
+  
+
+  
+
+  .stil > span {
+
+  
+
+      animation: blinker 0.2s linear infinite;
+
+      background-color: red;
+
+      padding: 15px;
+
+      color: #f7f1f1;
+
+      font-size: 30px;
+
+      font-weight: bold;
+
+      font-family: sans-serif;
+
+      }
+
+      @keyframes blinker {  
+
+      50% { opacity: 0; }
+
+      } */
