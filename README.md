@@ -9,7 +9,7 @@ Staj Otomasyonu admin rolündeki ise olası bir sistem hatasında anında müdah
 sistemde şifre unuttum bölümüde yer almaktadır.<br/>
 sistemi kolaylıkla acabilirisiniz tüm dosyaları paylaştım ilgilenen arkadaşlara teşekkür ederim...<br/>
 ### Admin Giriş Bilgileri
-kullanıcı Adı: 512145<br/>
-kullanıcı Şifre : 12345
+**kullanıcı Adı: 512145**<br/>
+**kullanıcı Şifre : 12345**
 
 Staj Otomasyonu
