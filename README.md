@@ -1,9 +1,9 @@
 # Staj-Otomasyonu
 ![Staj Otomasyonu](https://github.com/resitakinn/Staj-Otomasyonu/blob/main/assets/img/ekran.png)
 ## Projenin Amacı
-Yaptıgım Proje Bir staj otomasyonu projesidir güncel hayatta harcanan kağıt israfını bir nebze olsada engellemek adına boyle bir proje hayata gecirmek istedim projenin detaylı anlatım videosu baglantıya Tıklayarak Görebilirsiniz...
+Yaptıgım Proje Bir staj otomasyonu projesidir güncel hayatta harcanan kağıt israfını bir nebze olsada engellemek adına boyle bir proje hayata gecirmek istedim projenin detaylı anlatım videosu bağlantıya tıklayarak  Görebilirsiniz...
 [Youtube Video](https://youtu.be/qcpeupRXOVA)
-
+## Projenin özellikleri 
 proje 3 türlü yetki sistemi var Admin , Öğretmen ve Öğrenci Olarak öğretmen staj takvimini açmadan öğrenci hiçbir şekilde sisteme müdahale edemez gerekli kod güvenlikleri ile kodladığım bir sistemdir.<br/>
 Staj Otomasyonu admin rolündeki ise olası bir sistem hatasında anında müdahale edilmek için gerekli kullanıcıdır.<br/>
 sistemde şifre unuttum bölümüde yer almaktadır.<br/>
@@ -12,4 +12,9 @@ sistemi kolaylıkla acabilirisiniz tüm dosyaları paylaştım ilgilenen arkada�
 **kullanıcı Adı: 512145**<br/>
 **kullanıcı Şifre : 12345**
 
+#### Projenin kurulumu
+Projeyi önce bilgisayarınıza indirin <br/>
+Xampp kurulumu bilgisayarınızda yüklü olsun<br/>
+İndirdiğiniz projeyi htdocs klasörüne yükleyin xampp dizininde <br/>
+dosyanin içindr SQL dosyası var onu phpmyadmin de kurulumu yapın ve localde çalıştırın kendinize göre ayarlama yapınız..
 Staj Otomasyonu
