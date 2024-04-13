@@ -8,7 +8,7 @@ proje 3 türlü yetki sistemi var Admin , Öğretmen ve Öğrenci Olarak öğret
 Staj Otomasyonu admin rolündeki ise olası bir sistem hatasında anında müdahale edilmek için gerekli kullanıcıdır.<br/>
 sistemde şifre unuttum bölümüde yer almaktadır.<br/>
 sistemi kolaylıkla acabilirisiniz tüm dosyaları paylaştım ilgilenen arkadaşlara teşekkür ederim...<br/>
-###Admin Giriş Bilgileri
+### Admin Giriş Bilgileri
 kullanıcı Adı: 512145<br/>
 kullanıcı Şifre : 12345
 
