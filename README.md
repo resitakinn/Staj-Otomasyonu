@@ -17,4 +17,10 @@ Projeyi önce bilgisayarınıza indirin <br/>
 Xampp kurulumu bilgisayarınızda yüklü olsun<br/>
 İndirdiğiniz projeyi htdocs klasörüne yükleyin xampp dizininde <br/>
 dosyanin içindr SQL dosyası var onu phpmyadmin de kurulumu yapın ve localde çalıştırın kendinize göre ayarlama yapınız..
+
+## Xampp Captcha ( Güvenlik Resmi ) Sorunu Çözümü
+Captcha güvenlik kodu gözükmüyorsa GD kütüphanesi aktif değildir o yüzden gözükmez. <br/>
+Aktif etmek için C:\xampp\php dizininden (Ben xampp kullandığım için php dosyası burada siz ne kullanıyorsanız oradan ulaşın) php.ini dosyasını açıp içinde CTRL F ile "gd" diye aratın ";extension=gd" gibi bir ifade olacaktır. <br/>
+Önündeki ";" işaretini kaldırıp dosyayı kaydedin. Daha sonra xammp'den sunucuyu stop tuşuna basarak durdurun. <br/>
+Tekrar başlatıp açtığınızda Captcha güvenlik kodu gözükecektir. <br/>
 Staj Otomasyonu
