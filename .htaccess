@@ -5,5 +5,5 @@ RewriteCond %{REQUEST_FILENAME}\.php -f
 RewriteRule ^(.*)$ $1.php
 
 #404
-
+## burda 404 sayfasını nerde görünmek istiyorsanız oranın url linki yapıştırın
 ErrorDocument 404 https://taladro-fan.com/StajOtomasyonuu/404
