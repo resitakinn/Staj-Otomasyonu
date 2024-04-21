@@ -1,10 +1,4 @@
 # Staj-Otomasyonu
-
-<video width="640" height="360" controls>
-  <source src="https://github.com/resitakinn/Staj-Otomasyonu/blob/main/assets/img/video.mp4" type="video/mp4">  
-</video>
-
-
 ![Staj Otomasyonu](https://github.com/resitakinn/Staj-Otomasyonu/blob/main/assets/img/ekran.png)
 ## Projenin Amacı
 
