@@ -1,6 +1,13 @@
 # Staj-Otomasyonu
+
+<video width="640" height="360" controls>
+  <source src="https://github.com/resitakinn/Staj-Otomasyonu/blob/main/assets/img/video.mp4" type="video/mp4">  
+</video>
+
+
 ![Staj Otomasyonu](https://github.com/resitakinn/Staj-Otomasyonu/blob/main/assets/img/ekran.png)
 ## Projenin Amacı
+
 Yaptıgım Proje Bir staj otomasyonu projesidir güncel hayatta harcanan kağıt israfını bir nebze olsada engellemek adına boyle bir proje hayata gecirmek istedim projenin detaylı anlatım videosu bağlantıya tıklayarak  Görebilirsiniz...
 [Youtube Video](https://youtu.be/qcpeupRXOVA)
 ## Projenin özellikleri 
