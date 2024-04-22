@@ -1,4 +1,7 @@
 # Staj-Otomasyonu
+
+https://github.com/resitakinn/Staj-Otomasyonu/assets/103512411/de8255af-e186-422b-a850-66ca9dd03ec6
+
 ![Staj Otomasyonu](https://github.com/resitakinn/Staj-Otomasyonu/blob/main/assets/img/ekran.png)
 ## Projenin Amacı
 
