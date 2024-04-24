@@ -1,6 +1,3 @@
-# Staj-Otomasyonu
-
-![Staj Otomasyonu](https://github.com/resitakinn/Staj-Otomasyonu/blob/main/assets/img/ekran.png)
 ## Projenin Amacı
 
 Yaptıgım Proje Bir staj otomasyonu projesidir güncel hayatta harcanan kağıt israfını bir nebze olsada engellemek adına boyle bir proje hayata gecirmek istedim projenin detaylı anlatım videosu bağlantıya tıklayarak  Görebilirsiniz...
