@@ -25,4 +25,8 @@ Captcha güvenlik kodu gözükmüyorsa GD kütüphanesi aktif değildir o yüzde
 Aktif etmek için C:\xampp\php dizininden (Ben xampp kullandığım için php dosyası burada siz ne kullanıyorsanız oradan ulaşın) php.ini dosyasını açıp içinde CTRL + F ile "gd" diye aratın ";extension=gd" gibi bir ifade olacaktır. <br/>
 Önündeki ";" işaretini kaldırıp dosyayı kaydedin. Daha sonra xammp'dan sunucuyu stop tuşuna basarak durdurun. <br/>
 Tekrar Start  açtığınızda Captcha güvenlik kodu gözükecektir. <br/>
+## Ekran Görüntüsü
+
+![Staj Otomasyonu](https://github.com/resitakinn/Staj-Otomasyonu/assets/103512411/bae5b191-3d74-4439-8bc3-bc55e5c1578e)
+
 Staj Otomasyonu
