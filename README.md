@@ -1,6 +1,14 @@
 ## Projenin Amacı
 
-Yaptıgım Proje Bir staj otomasyonu projesidir güncel hayatta harcanan kağıt israfını bir nebze olsada engellemek adına boyle bir proje hayata gecirmek istedim projenin detaylı anlatım videosu bağlantıya tıklayarak  Görebilirsiniz...
+Proje Amaçları:
+
+Bu staj otomasyonu projesinin amacı, staj sürecini yönetmek ve izlemek için bir çevrimiçi platform sağlamaktır. Projenin ana hedefleri şunlardır:
+
+1. Staj Sürecini Kolaylaştırmak: Öğrencilerin staj başvuru sürecini kolaylaştırmak ve stajyerlerin stajyerlik sürecini takip etmelerine olanak tanımak.
+2. İş Verimliliğini Artırmak: Stajyerlik sürecinin yönetimini otomatize ederek, stajyerleri, stajyer danışmanlarını ve işverenleri daha verimli bir şekilde bir araya getirmek ve iletişimi artırmak.
+3. Veri Analizi ve İzleme: Stajyerlerin performansını izlemek, değerlendirmek ve raporlamak için veri analizi araçları sunmak. Bu, stajyerlerin gelişimini değerlendirmek ve stajyerlik deneyimini iyileştirmek için önemli bir araç sağlayacaktır.
+4. Gelişen Bir Topluluk Oluşturmak: Öğrenciler, öğretim üyeleri ve işverenler arasında etkileşimi teşvik ederek, stajyerlik sürecini bir topluluk deneyimine dönüştürmek ve karşılıklı öğrenmeyi teşvik etmek.
+5. Bu amaçlar doğrultusunda, staj otomasyonu projesi, staj sürecini daha verimli, şeffaf ve etkili hale getirmeyi ve stajyerlerin profesyonel gelişimlerine katkıda bulunmayı hedeflemektedir.
 [Youtube Video](https://youtu.be/qcpeupRXOVA)
 ## Projenin özellikleri 
 proje 3 türlü yetki sistemi var Admin , Öğretmen ve Öğrenci Olarak öğretmen staj takvimini açmadan öğrenci hiçbir şekilde sisteme müdahale edemez gerekli kod güvenlikleri ile kodladığım bir sistemdir.<br/>
