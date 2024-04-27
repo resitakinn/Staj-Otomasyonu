@@ -17,7 +17,7 @@ sistemde şifre unuttum bölümüde yer almaktadır.<br/>
 sistemi kolaylıkla acabilirisiniz tüm dosyaları paylaştım ilgilenen arkadaşlara teşekkür ederim...<br/>
 ### Admin Giriş Bilgileri
 **kullanıcı Adı: 512145**<br/>
-**kullanıcı Şifre : 12345**
+**kullanıcı Şifre : 123456**
 
 #### Projenin kurulumu
 Projeyi önce bilgisayarınıza indirin <br/>
